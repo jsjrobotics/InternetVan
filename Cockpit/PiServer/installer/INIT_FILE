@@ -1,0 +1,7 @@
+jdbc:mysql://127.0.0.1:3306/piserver?useLegacyDatetimeCode=false&serverTimezone=US/Eastern
+piserver_database
+piserver_database
+11136
+/home/spooky/InternetVan/Cockpit/PiServer/resources/clientkeystore
+clientkeystore
+11137
